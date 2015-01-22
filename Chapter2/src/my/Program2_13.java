@@ -41,9 +41,9 @@ public class Program2_13 {
 		System.out.print("Enter the number of months: ");
 		int numberOfMonths = scanner.nextInt(); // from the question
 		System.out.print("Enter the monthly deposit: ");
-		double monthlyDeposit = scanner.nextDouble()/100; // from the question
+		double monthlyDeposit = scanner.nextDouble(); // from the question
 		System.out.print("Enter the annual interest rate: ");
-		double annualRate = scanner.nextDouble(); //from the question
+		double annualRate = scanner.nextDouble()/100; //from the question
 		System.out.format("%.2f%n", getEndingBalance(numberOfMonths, monthlyDeposit, annualRate));
 
 	}

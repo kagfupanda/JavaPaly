@@ -36,11 +36,11 @@ public class Program2_25 {
 		System.out.println("Employee Name: " + name);
 		System.out.println("Hours worked: " + hours);
 		System.out.println("Pay rate: " + pay);
-		System.out.println("Gross Pay: " + grossPay);
-		System.out.println("Federal Withholding: " + fedWithhold);
-		System.out.println("State withholding: " + stateWithhold);
-		System.out.println("Total deduction: " + (stateWithhold + fedWithhold));
-		System.out.println("Net Pay:  $" + netPay);
+		System.out.format("Gross Pay: %.2f%n", grossPay);
+		System.out.format("Federal Withholding: %.2f%n", fedWithhold);
+		System.out.format("State withholding: %.2f%n", stateWithhold);
+		System.out.format("Total deduction: %.2f%n", (stateWithhold + fedWithhold));
+		System.out.format("Net Pay: $ %.2f%n", netPay);
 		
 		
 		
