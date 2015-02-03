@@ -1,3 +1,7 @@
+//Siddharth Srinivasan
+//Period 4
+//Program 3.5
+//Determines future day of the week
 package my;
 
 import java.util.Scanner;

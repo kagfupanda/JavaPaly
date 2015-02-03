@@ -1,3 +1,7 @@
+//Siddharth Srinivasan
+//Period 4
+//Program 3.15
+//Program determines if you won the lottery or not
 package my;
 
 import java.util.Scanner;

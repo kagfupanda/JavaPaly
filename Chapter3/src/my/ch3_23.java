@@ -1,3 +1,7 @@
+//Siddharth Srinivasan
+//Period 4
+//Program 3.23
+//program determines if point is in rectangle or not
 package my;
 
 import java.util.Scanner;

@@ -1,3 +1,7 @@
+//Siddharth Srinivasan
+//Period 4
+//Program 3.25
+//program determines where intersection point is between 2 lines
 package my;
 
 import java.util.Scanner;

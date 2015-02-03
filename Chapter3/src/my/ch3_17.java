@@ -1,3 +1,7 @@
+//Siddharth Srinivasan
+//Period 4
+//Program 3.17
+//user plays rock paper scissors with computer
 package my;
 
 import java.util.Random;

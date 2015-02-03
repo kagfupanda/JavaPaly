@@ -1,3 +1,7 @@
+//Siddharth Srinivasan
+//Period 4
+//Program 3.9
+//Determines the 10th ISBN digit
 package my;
 
 import java.util.Scanner;

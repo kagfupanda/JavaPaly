@@ -1,3 +1,7 @@
+//Siddharth Srinivasan
+//Period 4
+//Program 3.29
+//Program determines if circle is in or overlapping
 package my;
 
 import java.util.Scanner;

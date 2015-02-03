@@ -1,3 +1,7 @@
+//Siddharth Srinivasan
+//Period 4
+//Program 3.3
+//solves linear equation (Cramers rule)
 package my;
 
 import java.util.Scanner;

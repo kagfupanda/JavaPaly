@@ -1,3 +1,7 @@
+//Siddharth Srinivasan
+//Period 4
+//Program 3.27
+//program determines whether point is in triangle or not
 package my;
 
 import java.util.Scanner;
